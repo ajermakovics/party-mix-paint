@@ -18,7 +18,7 @@ Controls:
 - Play/Pause: exit
 - Headphones: pen up, pen down
 
-| Preview  | 
-| ------------- |
-| ![image](https://user-images.githubusercontent.com/999984/78499948-a607c100-774b-11ea-963c-16b5e545a011.png)  | 
+Preview:
+- ![image](https://user-images.githubusercontent.com/999984/78500113-93da5280-774c-11ea-9d11-de887acd6d7d.png)
+  
  
