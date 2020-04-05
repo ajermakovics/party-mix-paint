@@ -21,3 +21,8 @@ Numark Party Mix used to paint using Python's [Turtle](https://docs.python.org/3
 ### Preview:
 - ![image](https://user-images.githubusercontent.com/999984/78500113-93da5280-774c-11ea-9d11-de887acd6d7d.png)
   
+### Credits
+
+Inspired by:
+- https://github.com/micolous/mixtrack-hacks/
+- https://github.com/rylito/mixxx_numark_partymix
